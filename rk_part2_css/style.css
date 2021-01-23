@@ -1,0 +1,24 @@
+/* Import Google fonts. Go to fonts.google.com, pick fonts, select style, do @import, copy and past path */
+
+@import url('https://fonts.googleapis.com/css2?family=Hanalei&family=Pacifico&display=swap');
+
+/* update headers */
+
+h2 {
+  font-family: "Pacifico";
+  font-size: 40px;
+  color: purple;
+}
+
+h3{
+  font-family: "Hanalei";
+  font-size: 25px;
+  color: magenta;
+}
+
+body {
+  font-family: "Pacifico";
+  font-size: 18px;
+  color: teal;
+  background-color: yellow;
+}
